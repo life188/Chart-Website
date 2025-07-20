@@ -3,7 +3,7 @@ import React from "react";
 const Header = ({ lang, setLang }) => {
   const t = {
     en: {
-      title: "SmartSpend",
+      title: "SpendSmart",
       overview: "Overview",
     },
     fr: {
